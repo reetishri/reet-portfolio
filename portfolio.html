@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio</title>
+    <link rel="stylesheet" type="text/css" href="portfolio.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to my Portfolio</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#portfolio">Portfolio</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="about">
+            <h2>About Me</h2>
+            <p> My name is reeti shrivastava. I am a web developer. I specialize in building responsive, user-friendly websites using HTML, CSS, and JavaScript.</p>
+        </section>
+        <section id="portfolio">
+            <h2>My Portfolio</h2>
+            <ul>
+                <li>
+                    <a href=".html">
+                        <img src="C:\Users\Asus\OneDrive\Pictures\219667.webp" alt="Project 1">
+                        <h3>Project 1</h3>
+                    </a>
+                </li>
+                
+            </ul>
+        </section>
+        <section id="contact">
+            <h2>Contact Me</h2>
+            <p>Email:shrivastavreeti2.com</p>
+            <p>Phone:9109595583</p>
+        </section>
+    </main>
+    <footer>
+        <p>Copyright © 2024 reetis Portfolio</p>
+    </footer>
+</body>
+</html>
